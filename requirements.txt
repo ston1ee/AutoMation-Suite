@@ -1,0 +1,14 @@
+# AutoMation Suite Requirements
+# Install with: pip install -r requirements.txt
+
+# Core dependency for input simulation and monitoring
+pynput>=1.7.6
+
+# GUI framework (usually included with Python)
+# tkinter - Built into Python standard library
+
+# Optional: For advanced features
+# psutil>=5.9.0  # For process monitoring
+# pyautogui>=0.9.54  # Alternative automation library
+# keyboard>=0.13.5  # Alternative keyboard library
+# mouse>=0.7.1  # Alternative mouse library
